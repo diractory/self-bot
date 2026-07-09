@@ -1,0 +1,6 @@
+telethon
+aiohttp
+requests
+sympy
+instaloader
+Flask
